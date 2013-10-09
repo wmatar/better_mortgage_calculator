@@ -1,0 +1,17 @@
+﻿body {
+    background-color: orange;
+    margin-top: 100px;
+    margin-left: 25px;
+}
+
+#h2 {
+    text-align:center;
+    font-size: 25px;
+    font-style:italic;
+    text-decoration:underline;
+    
+}
+.bold {
+font-weight:bold;
+
+}
